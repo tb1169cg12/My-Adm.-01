@@ -17,7 +17,7 @@ class Student
     end
 end
 
-gitesh = Student.new("Gitesh", "Wadhwa", "gitesh1", "gitesh@example.com", "password1")
+gitesh = Student.new("Gitesh", "kumar", "gitesh1", "gitesh@example.com", "password1")
 
 moksh = Student.new("Moksh", "Moksh", "moksh1", "moksh@example.com","password2")
 
